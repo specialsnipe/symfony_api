@@ -1,0 +1,6 @@
+./vendor/bin/php-cs-fixer fix
+
+vendor/bin/phpstan analyse src
+
+php bin/phpunit - запуск тестов
+

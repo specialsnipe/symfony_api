@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 7,
+      "title": "Android",
+      "slug": "android"
+    },
+    {
+      "id": 6,
+      "title": "Iphone",
+      "slug": "iphone"
+    },
+    {
+      "id": 5,
+      "title": "Sensory",
+      "slug": "sensory"
+    }
+  ]
+}
